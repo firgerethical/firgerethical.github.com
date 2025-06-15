@@ -20,7 +20,7 @@ author: MegaPreorder
 ###############################################
 
 navbar-links:
-  About me: "Acerca De"
+  About me: "aboutme"
   Recursos:
     - plantilla: "https://beautifuljekyll.com"
     - Aprende MarkDown: "https://www.markdowntutorial.com/"
