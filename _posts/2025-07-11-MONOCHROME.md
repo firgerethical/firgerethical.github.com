@@ -2,9 +2,9 @@
 layout: post
 title: Minako Yoshida y la esencia de Monochrome
 subtitle: Una obra maestra del soul japonés, íntima y eterna
-cover-img: /assets/img/Minako-cover.jpg
+cover-img: /assets/img/minako-c.jpg
 thumbnail-img: /assets/img/thumb_monochrome.jpg
-share-img: /assets/img/Minako-cover.jpg
+share-img: /assets/img/minako-c.jpg
 tags: [música, japón, soul, city pop, introspección]
 author: RRR
 readtime: true
